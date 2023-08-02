@@ -39,7 +39,7 @@ I’m Richard, Passionate about writing code and using software to solve practic
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,redux,typescript,python,mongo,postgres,nestjs,docker,git,vscode,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,redux,typescript,nodejs,python,mongo,postgres,nestjs,docker,git,vscode,aws)](https://skillicons.dev)
 
 <!--
 **richarddanipog/richarddanipog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
