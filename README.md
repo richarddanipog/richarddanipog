@@ -1,4 +1,4 @@
-[![Richard's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+![Richard's GitHub Banner](./assets/GitHubHeader.png)
 
 ### Hi there 👋
 
