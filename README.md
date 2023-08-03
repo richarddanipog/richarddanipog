@@ -14,6 +14,7 @@ I’m Richard, Passionate about writing code and using software to solve practic
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: r.danipog@gmail.com<br/><br/>
+ ⚡ &emsp; Fun fact: I'm also a Dancer ✌🏼
 
 </p>
 
@@ -45,4 +46,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
